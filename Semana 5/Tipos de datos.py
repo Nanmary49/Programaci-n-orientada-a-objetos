@@ -35,3 +35,4 @@ else:
     print("Tu IMC está fuera del rango saludable. ⚠️")
 
 
+# Correción al commit anterior este archivo pertenece a la seman cinco
