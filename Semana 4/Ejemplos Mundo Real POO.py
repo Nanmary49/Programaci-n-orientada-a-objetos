@@ -120,3 +120,4 @@ while True:
 
     else:
         print("❌ Opción inválida. Intenta de nuevo.\n")
+        # Corrección del mensaje de commit anterior
