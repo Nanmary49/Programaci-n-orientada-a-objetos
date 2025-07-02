@@ -1,4 +1,4 @@
-# Programa para calcular el Índice de Masa Corporal (IMC) de una persona
+ Programa para calcular el Índice de Masa Corporal (IMC) de una persona
 # El usuario ingresa su nombre, peso y altura.
 # El programa calcula el IMC y determina si está en un rango saludable.
 # Utiliza varios tipos de datos: string, float, integer, boolean.
@@ -34,4 +34,4 @@ if imc_saludable:
 else:
     print("Tu IMC está fuera del rango saludable. ⚠️")
 
-# Fin del programa
+
