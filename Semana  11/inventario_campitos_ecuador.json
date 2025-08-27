@@ -1,0 +1,152 @@
+[
+    {
+        "id": 1,
+        "nombre": "Arroz",
+        "cantidad": 50,
+        "precio": 2.5
+    },
+    {
+        "id": 2,
+        "nombre": "Fréjol",
+        "cantidad": 40,
+        "precio": 3.0
+    },
+    {
+        "id": 3,
+        "nombre": "Aceite",
+        "cantidad": 30,
+        "precio": 4.5
+    },
+    {
+        "id": 4,
+        "nombre": "Azúcar",
+        "cantidad": 45,
+        "precio": 1.8
+    },
+    {
+        "id": 5,
+        "nombre": "Sal",
+        "cantidad": 35,
+        "precio": 1.2
+    },
+    {
+        "id": 6,
+        "nombre": "Café",
+        "cantidad": 25,
+        "precio": 5.5
+    },
+    {
+        "id": 7,
+        "nombre": "Panela",
+        "cantidad": 20,
+        "precio": 2.8
+    },
+    {
+        "id": 8,
+        "nombre": "Harina de trigo",
+        "cantidad": 30,
+        "precio": 2.2
+    },
+    {
+        "id": 9,
+        "nombre": "Pasta",
+        "cantidad": 40,
+        "precio": 1.5
+    },
+    {
+        "id": 10,
+        "nombre": "Atún",
+        "cantidad": 25,
+        "precio": 2.0
+    },
+    {
+        "id": 11,
+        "nombre": "Leche",
+        "cantidad": 60,
+        "precio": 1.2
+    },
+    {
+        "id": 12,
+        "nombre": "Huevos (30 unidades)",
+        "cantidad": 100,
+        "precio": 4.5
+    },
+    {
+        "id": 13,
+        "nombre": "Papa",
+        "cantidad": 70,
+        "precio": 1.2
+    },
+    {
+        "id": 14,
+        "nombre": "Cebolla",
+        "cantidad": 65,
+        "precio": 1.5
+    },
+    {
+        "id": 15,
+        "nombre": "Tomate",
+        "cantidad": 55,
+        "precio": 1.8
+    },
+    {
+        "id": 16,
+        "nombre": "Plátano",
+        "cantidad": 80,
+        "precio": 2.0
+    },
+    {
+        "id": 17,
+        "nombre": "Yuca",
+        "cantidad": 45,
+        "precio": 1.5
+    },
+    {
+        "id": 18,
+        "nombre": "Zanahoria",
+        "cantidad": 40,
+        "precio": 1.2
+    },
+    {
+        "id": 19,
+        "nombre": "Arveja",
+        "cantidad": 35,
+        "precio": 2.5
+    },
+    {
+        "id": 20,
+        "nombre": "Lenteja",
+        "cantidad": 30,
+        "precio": 2.8
+    },
+    {
+        "id": 21,
+        "nombre": "Avena",
+        "cantidad": 25,
+        "precio": 2.2
+    },
+    {
+        "id": 22,
+        "nombre": "Aceituna",
+        "cantidad": 20,
+        "precio": 3.5
+    },
+    {
+        "id": 23,
+        "nombre": "Queso",
+        "cantidad": 30,
+        "precio": 5.0
+    },
+    {
+        "id": 24,
+        "nombre": "Mantequilla",
+        "cantidad": 25,
+        "precio": 2.8
+    },
+    {
+        "id": 25,
+        "nombre": "Galletas",
+        "cantidad": 40,
+        "precio": 1.5
+    }
+]
